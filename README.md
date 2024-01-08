@@ -1,6 +1,6 @@
 ![logo](https://github.com/SANJAYSS-SRM-26/SANJAYSS-SRM-26/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm SANJAY S S</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayss-srm-26&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayss-srm-26" /> </p>
