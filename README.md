@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Developer from India</h3>
 
 # 💫 About Me
-🔭 I’m currently working on upgrading my skills <br>👯 I’m looking to collaborate on tech's , reach me : sanjayss16692@gmail.com<br>🤝 I’m looking for help with AI/ML <br>🌱 I’m currently learning UI/UX design and Full Stack Development. <br>💬 Ask me about tech's<br>
+🔭 I’m currently working on upgrading my skills <br>👯 I’m looking to collaborate on tech's , reach me : sanjayss16692@gmail.com<br>🤝 I’m looking for help with AI/ML <br>🌱 I’m currently learning UI/UX design. <br>💬 Ask me about tech's<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYSS-SRM-26&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
