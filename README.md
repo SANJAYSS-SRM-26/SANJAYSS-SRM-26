@@ -44,15 +44,6 @@
 </div>
 
 
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANJAYSS-SRM-26&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-       
-
-
 <h2 align="center">💬 Dev Quote</h2>
 
 <div align="center">
